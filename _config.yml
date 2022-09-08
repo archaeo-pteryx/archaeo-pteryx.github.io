@@ -1,3 +1,5 @@
+# Build settings
 markdown: kramdown
-exclude: ["vendor", "Gemfile", "Gemfile.lock"]
+theme: dinky
 
+exclude: ["vendor", "Gemfile", "Gemfile.lock"]
