@@ -1,5 +1,5 @@
 # Build settings
 markdown: kramdown
-theme: dinky
+theme: jekyll-theme-dinky
 
 exclude: ["vendor", "Gemfile", "Gemfile.lock"]
